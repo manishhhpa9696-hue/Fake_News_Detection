@@ -1,0 +1,174 @@
+{
+  "champion_model": "Logistic Regression",
+  "validation_benchmarks": [
+    {
+      "model_name": "Logistic Regression",
+      "accuracy": 0.875,
+      "precision_macro": 0.9,
+      "recall_macro": 0.875,
+      "f1_macro": 0.873,
+      "precision_fake": 0.8,
+      "recall_fake": 1.0,
+      "f1_fake": 0.8889,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          3,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "fpr": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        0.25,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "model_name": "Calibrated Linear SVM",
+      "accuracy": 0.875,
+      "precision_macro": 0.9,
+      "recall_macro": 0.875,
+      "f1_macro": 0.873,
+      "precision_fake": 0.8,
+      "recall_fake": 1.0,
+      "f1_fake": 0.8889,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          3,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "fpr": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        0.25,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "model_name": "Random Forest",
+      "accuracy": 0.875,
+      "precision_macro": 0.9,
+      "recall_macro": 0.875,
+      "f1_macro": 0.873,
+      "precision_fake": 1.0,
+      "recall_fake": 0.75,
+      "f1_fake": 0.8571,
+      "roc_auc": 0.875,
+      "confusion_matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "fpr": [
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        0.25,
+        0.75,
+        0.75,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "model_name": "Multinomial Naive Bayes",
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "precision_fake": 1.0,
+      "recall_fake": 1.0,
+      "f1_fake": 1.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "fpr": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        0.25,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "final_test_evaluation": {
+    "model_name": "Logistic Regression (Test Evaluation)",
+    "accuracy": 0.875,
+    "precision_macro": 0.9,
+    "recall_macro": 0.875,
+    "f1_macro": 0.873,
+    "precision_fake": 0.8,
+    "recall_fake": 1.0,
+    "f1_fake": 0.8889,
+    "roc_auc": 1.0,
+    "confusion_matrix": [
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "fpr": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "tpr": [
+      0.0,
+      0.25,
+      1.0,
+      1.0
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "k_fold_cross_validation": {
+    "Logistic Regression": {
+      "mean_accuracy": 0.92,
+      "std_accuracy": 0.0748,
+      "mean_macro_f1": 0.9179,
+      "std_macro_f1": 0.0776,
+      "mean_roc_auc": 1.0
+    },
+    "Calibrated Linear SVM": {
+      "mean_accuracy": 0.9,
+      "std_accuracy": 0.1095,
+      "mean_macro_f1": 0.8937,
+      "std_macro_f1": 0.1205,
+      "mean_roc_auc": 0.96
+    },
+    "Random Forest": {
+      "mean_accuracy": 0.8,
+      "std_accuracy": 0.0632,
+      "mean_macro_f1": 0.7889,
+      "std_macro_f1": 0.0724,
+      "mean_roc_auc": 0.892
+    },
+    "Multinomial Naive Bayes": {
+      "mean_accuracy": 0.9,
+      "std_accuracy": 0.1095,
+      "mean_macro_f1": 0.8937,
+      "std_macro_f1": 0.1205,
+      "mean_roc_auc": 0.992
+    }
+  },
+  "multilingual_slice_evaluation": {
+    "English (en)": {
+      "samples": 20,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ]
+    },
+    "Hindi (hi)": {
+      "samples": 16,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "confusion_matrix": [
+        [
+          8,
+          0
+        ],
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    "Marathi (mr)": {
+      "samples": 14,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "confusion_matrix": [
+        [
+          7,
+          0
+        ],
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  },
+  "total_verified_samples": 50
+}

@@ -1,0 +1,148 @@
+{
+  "domains": {
+    "reuters.com": {
+      "name": "Reuters",
+      "category": "Mainstream News Agency",
+      "credibility_rating": "High Credibility",
+      "status": "Verified Reliable",
+      "country": "International / UK",
+      "fact_check_certified": true,
+      "notes": "Global wire service adhering to the Trust Principles of integrity and freedom from bias."
+    },
+    "apnews.com": {
+      "name": "Associated Press (AP)",
+      "category": "Mainstream News Agency",
+      "credibility_rating": "High Credibility",
+      "status": "Verified Reliable",
+      "country": "USA / Global",
+      "fact_check_certified": true,
+      "notes": "Not-for-profit news cooperative with rigorous editorial guidelines."
+    },
+    "bbc.com": {
+      "name": "BBC News",
+      "category": "Public Broadcaster",
+      "credibility_rating": "High Credibility",
+      "status": "Verified Reliable",
+      "country": "United Kingdom",
+      "fact_check_certified": true,
+      "notes": "Publicly funded broadcaster with strict editorial standards."
+    },
+    "bbc.co.uk": {
+      "name": "BBC News UK",
+      "category": "Public Broadcaster",
+      "credibility_rating": "High Credibility",
+      "status": "Verified Reliable",
+      "country": "United Kingdom",
+      "fact_check_certified": true,
+      "notes": "Publicly funded broadcaster with strict editorial standards."
+    },
+    "thehindu.com": {
+      "name": "The Hindu",
+      "category": "National Daily Newspaper",
+      "credibility_rating": "High Credibility",
+      "status": "Verified Reliable",
+      "country": "India",
+      "fact_check_certified": false,
+      "notes": "Established Indian daily with strong fact-checking and editorial desk."
+    },
+    "indianexpress.com": {
+      "name": "The Indian Express",
+      "category": "National Daily Newspaper",
+      "credibility_rating": "High Credibility",
+      "status": "Verified Reliable",
+      "country": "India",
+      "fact_check_certified": false,
+      "notes": "Well-regarded investigative journalism and political reportage in India."
+    },
+    "ndtv.com": {
+      "name": "NDTV",
+      "category": "Broadcast & Digital News",
+      "credibility_rating": "Credible / Established",
+      "status": "Verified Reliable",
+      "country": "India",
+      "fact_check_certified": false,
+      "notes": "Major national television news network and online news portal."
+    },
+    "timesofindia.indiatimes.com": {
+      "name": "The Times of India",
+      "category": "National Daily Newspaper",
+      "credibility_rating": "Credible / Established",
+      "status": "Verified Reliable",
+      "country": "India",
+      "fact_check_certified": false,
+      "notes": "Highest circulation English-language newspaper in India with active Times Fact Check desk."
+    },
+    "altnews.in": {
+      "name": "Alt News",
+      "category": "Independent Fact-Checking Organization",
+      "credibility_rating": "Certified Fact-Checker",
+      "status": "Verified Fact-Checker",
+      "country": "India",
+      "fact_check_certified": true,
+      "notes": "Signatory to the International Fact-Checking Network (IFCN)."
+    },
+    "boomlive.in": {
+      "name": "BOOM Live",
+      "category": "Independent Fact-Checking Organization",
+      "credibility_rating": "Certified Fact-Checker",
+      "status": "Verified Fact-Checker",
+      "country": "India",
+      "fact_check_certified": true,
+      "notes": "IFCN-certified fact-checking organization focusing on misinformation in India."
+    },
+    "vishvasnews.com": {
+      "name": "Vishvas News",
+      "category": "Multilingual Fact-Checking",
+      "credibility_rating": "Certified Fact-Checker",
+      "status": "Verified Fact-Checker",
+      "country": "India",
+      "fact_check_certified": true,
+      "notes": "IFCN-certified fact-checking unit operating in English, Hindi, and regional languages."
+    },
+    "snopes.com": {
+      "name": "Snopes",
+      "category": "Fact-Checking & Mythbusting",
+      "credibility_rating": "Certified Fact-Checker",
+      "status": "Verified Fact-Checker",
+      "country": "USA",
+      "fact_check_certified": true,
+      "notes": "Pioneering fact-checking website investigating urban legends and fake news."
+    },
+    "politifact.com": {
+      "name": "PolitiFact",
+      "category": "Political Fact-Checking",
+      "credibility_rating": "Certified Fact-Checker",
+      "status": "Verified Fact-Checker",
+      "country": "USA",
+      "fact_check_certified": true,
+      "notes": "Pulitzer Prize-winning fact-checking initiative run by the Poynter Institute."
+    },
+    "theonion.com": {
+      "name": "The Onion",
+      "category": "Satire & Parody",
+      "credibility_rating": "Satire / Not Real News",
+      "status": "Known Parody",
+      "country": "USA",
+      "fact_check_certified": false,
+      "notes": "Explicitly satirical entertainment publication. Articles are comedic fiction, not news."
+    },
+    "babylonbee.com": {
+      "name": "The Babylon Bee",
+      "category": "Satire & Parody",
+      "credibility_rating": "Satire / Not Real News",
+      "status": "Known Parody",
+      "country": "USA",
+      "fact_check_certified": false,
+      "notes": "Christian and political satire website. Articles are humorous parody."
+    },
+    "fakingnews.com": {
+      "name": "Faking News",
+      "category": "Satire & Parody",
+      "credibility_rating": "Satire / Not Real News",
+      "status": "Known Parody",
+      "country": "India",
+      "fact_check_certified": false,
+      "notes": "Indian satirical news website publishing mock articles for humor."
+    }
+  }
+}

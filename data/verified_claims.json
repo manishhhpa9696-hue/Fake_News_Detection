@@ -1,0 +1,154 @@
+{
+  "verified_database": [
+    {
+      "claim": "James Webb Space Telescope discovered oldest and most distant galaxies in the early universe.",
+      "keywords": ["james webb", "webb", "telescope", "galaxies", "oldest", "redshift", "astronomers"],
+      "status": "Supported",
+      "verdict_explanation": "Astronomers and NASA published verified spectroscopic data confirming high-redshift galaxies formed within 300-400 million years after the Big Bang.",
+      "source": "NASA & Nature Astronomy",
+      "source_url": "https://www.nasa.gov/mission_pages/webb",
+      "date": "2023-04-12",
+      "language": "en"
+    },
+    {
+      "claim": "COVID-19 vaccines contain programmable 5G microchips or biometric tracking devices.",
+      "keywords": ["covid", "vaccine", "5g", "microchip", "tracking", "chip"],
+      "status": "Contradicted",
+      "verdict_explanation": "Extensive laboratory testing and peer-reviewed pharmaceutical documentation confirm vaccines contain mRNA or viral vectors and lipids, with no electronic components.",
+      "source": "World Health Organization (WHO) & Reuters Fact Check",
+      "source_url": "https://www.reuters.com/fact-check",
+      "date": "2021-06-15",
+      "language": "en"
+    },
+    {
+      "claim": "Drinking boiled lemon water and hot water cures cancer and destroys all viruses immediately.",
+      "keywords": ["lemon", "hot water", "cure", "cancer", "destroy virus", "alkaline", "chemotherapy"],
+      "status": "Contradicted",
+      "verdict_explanation": "Medical oncologists and health institutes verify that while citrus fruits contain antioxidants, hot lemon water cannot cure cancer or replace oncological therapies.",
+      "source": "American Cancer Society & Snopes",
+      "source_url": "https://www.snopes.com/fact-check",
+      "date": "2020-04-10",
+      "language": "en"
+    },
+    {
+      "claim": "Reserve Bank of India Monetary Policy Committee decided to maintain repo rate unchanged at 6.5 percent.",
+      "keywords": ["reserve bank", "rbi", "repo rate", "unchanged", "6.5", "monetary policy", "inflation"],
+      "status": "Supported",
+      "verdict_explanation": "The Reserve Bank of India officially announced in its Monetary Policy resolution that the repo rate remains fixed at 6.50% to align inflation targets.",
+      "source": "Reserve Bank of India (RBI Press Release)",
+      "source_url": "https://www.rbi.org.in",
+      "date": "2024-02-08",
+      "language": "en"
+    },
+    {
+      "claim": "New Indian 2000 rupee notes contained nano-GPS tracking chips embedded inside them.",
+      "keywords": ["2000", "note", "nano gps", "chip", "rbi", "currency", "tracking note", "satellites", "ground"],
+      "status": "Contradicted",
+      "verdict_explanation": "The Reserve Bank of India (RBI) confirmed that the banknotes have standard security watermarks, intaglio printing, and threads, but no electronic or satellite tracking chips.",
+      "source": "Reserve Bank of India (RBI) & Alt News",
+      "source_url": "https://www.altnews.in",
+      "date": "2016-11-12",
+      "language": "en"
+    },
+    {
+      "claim": "5G mobile networks cause COVID-19 or cellular radiation weakens human immunity against viruses.",
+      "keywords": ["5g", "radiation", "weakens", "immunity", "cause covid", "birds dying", "birds fall"],
+      "status": "Contradicted",
+      "verdict_explanation": "Radiofrequency electromagnetic fields used in 5G do not interact with viruses or create viral pathogens. Biological transmission occurs via respiratory droplets.",
+      "source": "International Commission on Non-Ionizing Radiation Protection (ICNIRP) & PolitiFact",
+      "source_url": "https://www.politifact.com",
+      "date": "2020-05-18",
+      "language": "en"
+    },
+    {
+      "claim": "UNESCO has declared the Indian National Anthem Jana Gana Mana as the best national anthem in the world.",
+      "keywords": ["unesco", "jana gana mana", "best anthem", "national anthem", "declared"],
+      "status": "Contradicted",
+      "verdict_explanation": "UNESCO released an official clarification stating that it does not evaluate, rank, or award titles to national anthems of any country.",
+      "source": "UNESCO Official Spokesperson & Boom Live",
+      "source_url": "https://www.boomlive.in",
+      "date": "2018-08-14",
+      "language": "en"
+    },
+    {
+      "claim": "NASA satellite picture of India on Diwali night shows the entire country illuminated in distinct regional colors.",
+      "keywords": ["nasa", "diwali", "satellite picture", "india illuminated", "colored lights"],
+      "status": "Contradicted",
+      "verdict_explanation": "The widely shared colorful image is an artistic overlay created by NOAA scientists in 2003 to illustrate population growth over a decade, not a real-time Diwali photograph.",
+      "source": "NASA Earth Observatory & Vishvas News",
+      "source_url": "https://www.vishvasnews.com",
+      "date": "2019-10-27",
+      "language": "en"
+    },
+    {
+      "claim": "India successfully landed Chandrayaan-3 near the south pole region of the Moon on August 23, 2023.",
+      "keywords": ["chandrayaan-3", "chandrayaan", "moon", "isro", "south pole", "august 23", "landed", "vikram", "lander"],
+      "status": "Supported",
+      "verdict_explanation": "Official space telemetry and global space agencies including NASA, ESA, and ISRO verified the soft landing of the Vikram lander and deployment of the Pragyan rover.",
+      "source": "ISRO & NASA Jet Propulsion Laboratory",
+      "source_url": "https://www.isro.gov.in",
+      "date": "2023-08-23",
+      "language": "en"
+    },
+    {
+      "claim": "इसरो ने मौसम उपग्रह इनसैट-3डीएस का सफल प्रक्षेपण किया।",
+      "keywords": ["इसरो", "इनसैट-3डीएस", "इनसैट", "3डीएस", "प्रक्षेपण", "उपग्रह", "मौसम"],
+      "status": "Supported",
+      "verdict_explanation": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने श्रीहरिकोटा से जीएसएलवी रॉकेट द्वारा इनसैट-3डीएस उपग्रह को सफलतापूर्वक कक्षा में स्थापित किया।",
+      "source": "ISRO आधिकारिक विज्ञप्ति & PIB फैक्ट चेक",
+      "source_url": "https://www.isro.gov.in",
+      "date": "2024-02-17",
+      "language": "hi"
+    },
+    {
+      "claim": "देश में नमक की भारी कमी होने वाली है और नमक की बिक्री बंद हो जाएगी।",
+      "keywords": ["नमक", "कमी", "हजार", "स्टॉक", "किलो", "अफवाह", "कीमत"],
+      "status": "Contradicted",
+      "verdict_explanation": "उपभोक्ता मामले और खाद्य आपूर्ति मंत्रालय ने स्पष्ट किया कि देश में नमक का प्रचुर भंडार मौजूद है और नमक की कमी की बातें केवल निराधार अफवाह हैं।",
+      "source": "PIB फैक्ट चेक & Alt News Hindi",
+      "source_url": "https://pib.gov.in/factcheck",
+      "date": "2021-11-18",
+      "language": "hi"
+    },
+    {
+      "claim": "भारतीय अंतराळ संशोधन संस्थेने चंद्रयान ३ मोहीम यशस्वीपणे पूर्ण केली.",
+      "keywords": ["भारतीय अंतराळ", "इस्रो", "चंद्रयान ३", "चंद्रयान", "विक्रम लँडर", "सॉफ्ट लँडिंग"],
+      "status": "Supported",
+      "verdict_explanation": "इस्रोने चंद्राच्या दक्षिण ध्रुवावर विक्रम लँडरचे यशस्वी सॉफ्ट लँडिंग केल्याचे वैज्ञानिक पुरावे आणि थेट प्रसारणाद्वारे सिद्ध झाले आहे.",
+      "source": "ISRO & बूम लाइव्ह मराठी",
+      "source_url": "https://marathi.boomlive.in",
+      "date": "2023-08-23",
+      "language": "mr"
+    },
+    {
+      "claim": "2000 रुपयांच्या नोटेमध्ये सॅटेलाइट नॅनो जीपीएस चिप बसवण्यात आली आहे.",
+      "keywords": ["2000", "दोन हजार", "नोटा", "नोटेत", "नॅनो", "जीपीएस", "चिप", "आरबीआय", "उपग्रह"],
+      "status": "Contradicted",
+      "verdict_explanation": "भारतीय रिझर्व्ह बँकेने (RBI) स्पष्ट केले आहे की चलनामध्ये कोणतीही इलेक्ट्रॉनिक किंवा ट्रॅकिंग चिप बसवण्यात आलेली नाही.",
+      "source": "RBI & बूम लाइव्ह (Boom Live Marathi)",
+      "source_url": "https://marathi.boomlive.in",
+      "date": "2016-11-15",
+      "language": "mr"
+    },
+    {
+      "claim": "5जी नेटवर्क के ट्रायल से पक्षियों की सामूहिक मौत हो रही है और इंसान बीमार पड़ रहे हैं।",
+      "keywords": ["5जी", "5g", "पक्षी", "मौत", "ट्रायल", "रेडिएशन", "हवा में जहर"],
+      "status": "Contradicted",
+      "verdict_explanation": "दूरसंचार विभाग (DoT) और वन्यजीव विशेषज्ञों ने जांच में पाया कि पक्षियों की मौत का 5G से कोई वैज्ञानिक संबंध नहीं था, बल्कि मौसमी संक्रमण और बर्ड फ्लू था।",
+      "source": "PIB Fact Check & Alt News Hindi",
+      "source_url": "https://pib.gov.in/factcheck",
+      "date": "2021-05-24",
+      "language": "hi"
+    },
+    {
+      "claim": "Listening to 432 Hz scalar audio frequency regrows amputated human limbs in 48 hours.",
+      "keywords": ["sound frequency", "limbs", "432 hz", "regrows", "human limbs", "amputated"],
+      "status": "Contradicted",
+      "verdict_explanation": "This claim originated from satirical fiction website The Onion. Human biological limb regeneration is scientifically impossible through acoustic frequencies.",
+      "source": "Snopes & Medical Science Archives",
+      "source_url": "https://www.snopes.com",
+      "date": "2022-09-14",
+      "language": "en"
+    }
+  ]
+}

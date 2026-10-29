@@ -1,0 +1,17 @@
+{
+  "champion_model_name": "Logistic Regression",
+  "vocab_size": 3397,
+  "num_train_samples": 136,
+  "num_val_samples": 8,
+  "num_test_samples": 8,
+  "classes": [
+    "Reliable-like (0)",
+    "Fake-like (1)"
+  ],
+  "languages_supported": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "dataset_source": "Curated Multilingual News Verification Benchmark"
+}
